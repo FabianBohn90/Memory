@@ -79,7 +79,6 @@ class MemoryLogic {
             cardImageIDs.add(imageSource[10])
             cardImageIDs.add(imageSource[11])
         }
-
         cardImageIDs.shuffle()
         // liefere die befüllte Liste zurück
         return cardImageIDs
